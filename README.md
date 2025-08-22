@@ -31,4 +31,4 @@ Welcome to my portfolio! This repository showcases my journey into data analytic
 
 - 📫 **Let’s Connect**  
 - LinkedIn: [Your LinkedIn Profile Link Here]  
-- Email: [your email here]
+- Email: [abubakarabdulrazak107@gmail.com]
