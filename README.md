@@ -30,5 +30,5 @@ Welcome to my portfolio! This repository showcases my journey into data analytic
 - 🚀 Land a data analytics role where I can grow and add value  
 
 - 📫 **Let’s Connect**  
-- LinkedIn: [Your LinkedIn Profile Link Here]  
+- LinkedIn: [https://www.linkedin.com/in/abubakar-abdul-razak-129048380]  
 - Email: [abubakarabdulrazak107@gmail.com]
